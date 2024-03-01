@@ -6,4 +6,10 @@ In some domains we generated new larger instances.
 
 Four domains (Lamps and SharpSAT in total-order and Colouring and Ultralight-Cockpit in partial-order) are new.
 
-Lamps and Colouring can be used under ``CC BY-NC-SA 4.0`` conditions.
+Domain | Problems | Papers | License
+--- | ---: | --- | ---
+[Lamps](total-order/Lamps) | 30 | - | CC BY-NC-SA 4.0
+[SharpSAT](total-order/SharpSAT) | 21 | - |
+[Colouring](partial-order/Colouring) | 30 | - | CC BY-NC-SA 4.0
+[Ultralight-Cockpit](partial-order/Ultralight-Cockpit) | 34 | - | 
+
